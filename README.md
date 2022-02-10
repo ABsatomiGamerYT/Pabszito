@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/798015458136817686/941344112366481428/file.png" height="auto" width="256" alt="Profile picture">
+  <img align="center" src="https://raw.githubusercontent.com/Pabszito/Pabszito/master/assets/avatar.png" height="auto" width="256" alt="Profile picture">
   <br>
   <br>
   <samp>hi there</samp>
