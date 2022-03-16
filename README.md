@@ -1,6 +1,6 @@
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/Pabszito/Pabszito/master/assets/avatar.png" height="auto" width="256" alt="Profile picture">
-  <br>
+<!--   <img align="center" src="https://raw.githubusercontent.com/Pabszito/Pabszito/master/assets/avatar.png" height="auto" width="256" alt="Profile picture">
+  <br> -->
   <br>
   <samp>hi there</samp>
   <br>
