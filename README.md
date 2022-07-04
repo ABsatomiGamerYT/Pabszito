@@ -9,7 +9,7 @@
     <a href="https://osu.ppy.sh/u/Pabszito">osu!</a> •
     <a href="https://twitch.tv/pabszito">twitch</a> • 
     <a href="https://reddit.com/u/Pabszito">reddit</a> • 
-    <a href="mailto:pabszito@protonmail.com">email</a>
+    <a href="mailto:pabszito@comugamers.com">email</a>
   </samp>
   <br>
 </p>
