@@ -12,6 +12,9 @@
     <a href="mailto:pabszito@comugamers.com">email</a>
   </samp>
   <br>
+  <br>
+  <img alt="counter" src="https://komarev.com/ghpvc/?username=Pabszito&color=blue&label=views">
+  <br>
 </p>
 
 <details>
