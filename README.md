@@ -40,3 +40,7 @@
   <img width=28 height="auto" src="https://raw.githubusercontent.com/Pabszito/Pabszito/master/assets/javascript.png" />
   <img width=22 height="auto" src="https://raw.githubusercontent.com/Pabszito/Pabszito/master/assets/java.png" />
 </details>
+
+<a src="https://discord.com/users/447902653842980875" align="center">
+  <img src="https://lanyard.cnrad.dev/api/447902653842980875"/>
+</a> 
